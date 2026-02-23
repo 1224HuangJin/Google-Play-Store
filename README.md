@@ -28,8 +28,10 @@
 2：打开小米`应用商店`，搜索`google play`，安装`Google Play 商店`
 
 <img src="xiaomi/3.jpg" alt="3.jpg" width="300">
+
 ---
-# 以下内容来自:  [https://zhuanlan.zhihu.com/p/688408414](https://zhuanlan.zhihu.com/p/688408414) [Archive](https://web.archive.org/web/20260223180203/https://zhuanlan.zhihu.com/p/688408414)
+
+# 以下内容来自:  [https://zhuanlan.zhihu.com/p/688408414](https://zhuanlan.zhihu.com/p/688408414) [web.archive.org](https://web.archive.org/web/20260223180203/https://zhuanlan.zhihu.com/p/688408414)
 
 在 [Google Play 支持的设备列表](https://support.google.com/googleplay/answer/1727131)内的小米/红米手机已预装谷歌服务，只需要安装 Play 商店。
 
