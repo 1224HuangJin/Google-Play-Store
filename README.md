@@ -28,6 +28,32 @@
 2：打开小米`应用商店`，搜索`google play`，安装`Google Play 商店`
 
 <img src="xiaomi/3.jpg" alt="3.jpg" width="300">
+---
+# 以下内容来自:  [https://zhuanlan.zhihu.com/p/688408414](https://zhuanlan.zhihu.com/p/688408414) [Archive](https://web.archive.org/web/20260223180203/https://zhuanlan.zhihu.com/p/688408414)
+
+在 [Google Play 支持的设备列表](https://support.google.com/googleplay/answer/1727131)内的小米/红米手机已预装谷歌服务，只需要安装 Play 商店。
+
+【**实测不在列表的型号也可以安装 Play 商店。】
+经过@smallboat 和 @mahamud 两位兄弟验证，可不开启谷歌服务(跳过步骤一)，直接安装google play。
+
+步骤一、开启谷歌服务(可跳过该步骤)：
+MIUI：设置 -> 帐号与同步 -> 谷歌基础服务
+HyperOS：设置 -> 更多设置 -> 帐号与同步 -> 谷歌基础服务
+步骤二、安装 Google Play 商店：
+在应用商店搜索「google play」，安装「Google Play 商店」。
+如果找不到就从 [Aptoide(Aptoide - The alternative Android app store)](https://google-play-services-updater.en.aptoide.com/app) 安装。
+以上，安装完桌面就有 Play 商店啦。
+以下机型已经实测可用： Xiaomi 11 青春活力版、Redmi K40S、Redmi Note 12 Turbo、Xiaomi 14、小米pad6sPro、小米pad6Pro、Redmi Turbo 3。
+
+补充：
+问题1、找不到“账号与同步”：
+答：在【设置】中搜索；或者开启“开发者模式”(连续点击7次OS版本号开启 【@长空X 提供】)
+问题2、打开google play白屏、无法使用：
+答：需要科学上网。
+
+参考连接：
+小米 / 红米 / MIUI / HyperOS 的 Google Play 安装教程 - 叶寻的博客 (cyrusyip.org)
+
 
 ---
 
@@ -90,3 +116,4 @@
 - [APKMirror](https://www.apkmirror.com)
 
 - [APKPure](https://apkpure.com/cn)
+
